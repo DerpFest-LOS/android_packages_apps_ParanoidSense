@@ -18,6 +18,7 @@ android_app {
     static_libs: [
         "androidx.core_core",
         "androidx.appcompat_appcompat",
+        "androidx.preference_preference",
         "setup-wizard-lib",
         "setupcompat",
         "setupdesign",
